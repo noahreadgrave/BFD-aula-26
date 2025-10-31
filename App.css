@@ -1,0 +1,13 @@
+
+
+
+
+
+.claridadeAumentada {
+filter: brightness(150%);
+}
+
+.claridadeMenos {
+  filter: brightness(50%);
+}
+
